@@ -1,11 +1,11 @@
 @charset "Shift_JIS";
 
-/* Šî–{İ’è */
+/* åŸºæœ¬è¨­å®š */
 
 body {
 	font-size: 14px;
 	color: #333;
-	font-family:"ƒqƒ‰ƒMƒmŠpƒS Pro W3", "Hiragino Kaku Gothic Pro", "ƒƒCƒŠƒI", Meiryo, Osaka, "‚l‚r ‚oƒSƒVƒbƒN", "MS PGothic", sans-serif;
+	font-family:"ãƒ’ãƒ©ã‚®ãƒè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, Osaka, "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", sans-serif;
 	line-height: 18px ;
 	text-align: left;
 	padding: 0px auto 0px auto;
@@ -38,7 +38,7 @@ img {
 	border:0px;
 }
 
-/* ƒƒjƒ…[•”•ª‚Ìİ’è */
+/* ãƒ¡ãƒ‹ãƒ¥ãƒ¼éƒ¨åˆ†ã®è¨­å®š */
 #menu {
 	margin: 15px;
 	text-align: left;
@@ -61,7 +61,7 @@ img {
 }
 
 
-/* ƒwƒbƒ_[*/
+/* ãƒ˜ãƒƒãƒ€ãƒ¼*/
 #header {
 	background-color: #000;
 	background-image: url(img/logo.png);
@@ -77,7 +77,7 @@ img {
 }
 	
 
-/* ƒƒCƒ“•”•ª‚Ìİ’è */
+/* ãƒ¡ã‚¤ãƒ³éƒ¨åˆ†ã®è¨­å®š */
 #main {
 	margin: 30px;
 	width: 1150px;
