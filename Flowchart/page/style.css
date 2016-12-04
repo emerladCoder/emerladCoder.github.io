@@ -1,0 +1,270 @@
+@charset "Shift_JIS";
+
+/* äÓñ{ê›íË */
+
+body {
+	font-size: 14px;
+	color: #333;
+	font-family:"ÉqÉâÉMÉmäpÉS Pro W3", "Hiragino Kaku Gothic Pro", "ÉÅÉCÉäÉI", Meiryo, Osaka, "ÇlÇr ÇoÉSÉVÉbÉN", "MS PGothic", sans-serif;
+	line-height: 18px ;
+	text-align: left;
+	padding: 0px auto 0px auto;
+	margin: 0px auto 0px auto;
+}
+
+a:link {
+	color:#06C;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#06C;
+	text-decoration:none;
+}
+
+a:hover	{
+	color:#0000FF;
+	text-decoration:underline;
+}
+
+div {
+	padding: 0px;
+	margin:0px;
+}
+
+img {
+	padding: 0px;
+	margin:0px;
+	border:0px;
+}
+
+/* ÉÅÉjÉÖÅ[ïîï™ÇÃê›íË */
+#menu {
+	margin: 15px;
+	text-align: left;
+	float: left;
+}
+
+#menu h1 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#menu h2 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px 0px 0px 5px;
+}
+
+.menu_item {
+	margin-left: 15px;
+}
+
+
+/* ÉwÉbÉ_Å[*/
+#header {
+	background-color: #000;
+	background-image: url(img/logo.png);
+	background-repeat: no-repeat;
+	height: 50px;
+	text-align: right;
+}
+
+#header h1 {
+	color: #fff;
+	padding: 15px 20px 0px 0px;
+	font-size: 16px;
+}
+	
+
+/* ÉÅÉCÉìïîï™ÇÃê›íË */
+#main {
+	margin: 30px;
+	width: 1150px;
+}
+
+#main h1 {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.manual_table {
+	margin: 10px 0px;
+}
+
+.list {
+	margin: 10px 0px;
+	border: 1px solid #000;
+}
+
+.list td {
+	border: 1px solid #000;
+	padding: 3px;
+}
+
+.font_red {
+	color:#F00;
+}
+
+.font_blue {
+	color:#06F;
+}
+
+.base {
+	width: 270px;
+	float: left;
+	display: block;
+	text-align: center;
+	margin-right: 10px;
+}
+
+.base2 {
+	width: 560px;
+	float: left;
+	display: block;
+	text-align: center;
+	margin-right: 10px;
+}
+
+.base3 {
+	width: 840px;
+	float: left;
+	display: block;
+	text-align: center;
+}
+
+.base4 {
+	width: 1120px;
+	float: left;
+	display: block;
+	text-align: center;
+}
+
+.flow_base {
+	border: 1px solid #000;
+	padding: 3px 5px;
+	font-size: 12px;
+	width: 250px;
+	text-align: left;
+	margin: 5px auto;
+	display: block;
+}
+
+.flow_base h1 {
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.flow_base h2 {
+	font-weight: bold;
+	text-align: center;
+	color: #fff;
+	background-color: #000;
+	font-size: 14px;
+	margin: 0px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.flow_base p {
+	font-weight: bold;
+	text-align: center;
+	font-size: 14px;
+}
+
+.battle_base {
+	background-color:#FF9;
+	padding: 3px 5px;
+	font-size: 12px;
+	text-align: left;
+	margin: 5px auto;
+	font-weight: bold;
+	text-align: center;
+}
+
+.new_work {
+	background-color: #333;
+	color: #FFF;
+	margin: 5px auto;
+	padding: 3px;
+}
+
+.kobetu_h {
+	background-color: #F09;
+	color: #FFF;
+	margin: 5px;
+	padding: 3px;
+}
+
+.win {
+	background-color: #F00;
+	color: #fff;
+	margin: 5px auto;
+	padding: 3px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.lose {
+	background-color: #333;
+	color: #fff;
+	margin: 5px auto;
+	padding: 3px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.hsc {
+	background-color: #F6C;
+	color: #fff;
+	margin: 5px auto;
+	padding: 3px;
+	text-decoration: none;
+	text-align: left;
+	margin: 3px auto;
+	padding: 0px;
+}
+
+.ending {
+	background-color: #6FF;
+	color: #333;
+	margin: 5px auto;
+	padding: 3px;
+	text-decoration: none;
+	text-align: left;
+	margin: 3px auto;
+	padding: 0px;
+}
+
+.virgin {
+	background-color: #F30;
+	color: #fff;
+	margin: 5px auto;
+	padding: 3px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.not_virgin {
+	background-color: #006;
+	color: #fff;
+	margin: 5px auto;
+	padding: 3px;
+	text-decoration: none;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.next {
+	border: 1px solid #F00;
+	margin: 5px auto;
+	padding: 3px;
+}
